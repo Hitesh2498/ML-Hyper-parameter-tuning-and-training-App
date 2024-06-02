@@ -1,0 +1,6 @@
+streamlit 
+numpy
+pandas
+base64
+plotly
+scikit-learn
