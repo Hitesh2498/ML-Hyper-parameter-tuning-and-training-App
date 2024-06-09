@@ -1,6 +1,8 @@
 # The Machine Learning Hyperparameter Optimization App
 
 The Machine Learning Hyperparameter Optimization App is a Streamlit-based web application designed for optimizing hyperparameters of a RandomForestRegressor model for regression tasks. The app allows users to upload their own dataset, set hyperparameters through an intuitive interface, and visualize the results of the optimization process.
+![image](https://github.com/Hitesh2498/ML-Hyper-parameter-tuning-and-training-App/assets/96277290/3d14e850-a740-486c-ad4e-9863e2ec7c33)
+![image](https://github.com/Hitesh2498/ML-Hyper-parameter-tuning-and-training-App/assets/96277290/dcf45d58-a5c2-4ce9-b4d4-0360b5cd0243)
 
 ## Features :-
 
